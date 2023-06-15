@@ -175,7 +175,6 @@ namespace VapeLauncherRipz
             // 
             // progres
             // 
-            this.progres.Interval = 5;
             this.progres.Tick += new System.EventHandler(this.progres_Tick);
             // 
             // cnsle
@@ -223,11 +222,11 @@ namespace VapeLauncherRipz
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(26)))), ((int)(((byte)(26)))), ((int)(((byte)(26)))));
             this.ClientSize = new System.Drawing.Size(694, 417);
             this.Controls.Add(this.progress);
-            this.Controls.Add(this.menupanel);
             this.Controls.Add(this.siticoneControlBox2);
             this.Controls.Add(this.siticoneControlBox1);
             this.Controls.Add(this.siticonePictureBox2);
             this.Controls.Add(this.siticonePictureBox1);
+            this.Controls.Add(this.menupanel);
             this.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.ForeColor = System.Drawing.Color.White;
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;

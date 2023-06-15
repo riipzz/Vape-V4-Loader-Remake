@@ -1,7 +1,6 @@
 C:\Users\dripz\source\repos\VapeLauncherRipz\VapeLauncherRipz\bin\Debug\VapeLauncherRipz.exe.config
 C:\Users\dripz\source\repos\VapeLauncherRipz\VapeLauncherRipz\bin\Debug\VapeLauncherRipz.exe
 C:\Users\dripz\source\repos\VapeLauncherRipz\VapeLauncherRipz\bin\Debug\VapeLauncherRipz.pdb
-C:\Users\dripz\source\repos\VapeLauncherRipz\VapeLauncherRipz\bin\Debug\Siticone.UI.dll
 C:\Users\dripz\source\repos\VapeLauncherRipz\VapeLauncherRipz\obj\Debug\VapeLauncherRipz.csproj.AssemblyReference.cache
 C:\Users\dripz\source\repos\VapeLauncherRipz\VapeLauncherRipz\obj\Debug\VapeLauncherRipz.Properties.Resources.resources
 C:\Users\dripz\source\repos\VapeLauncherRipz\VapeLauncherRipz\obj\Debug\VapeLauncherRipz.csproj.GenerateResource.cache
@@ -10,3 +9,5 @@ C:\Users\dripz\source\repos\VapeLauncherRipz\VapeLauncherRipz\obj\Debug\VapeLaun
 C:\Users\dripz\source\repos\VapeLauncherRipz\VapeLauncherRipz\obj\Debug\VapeLauncherRipz.exe
 C:\Users\dripz\source\repos\VapeLauncherRipz\VapeLauncherRipz\obj\Debug\VapeLauncherRipz.pdb
 C:\Users\dripz\source\repos\VapeLauncherRipz\VapeLauncherRipz\obj\Debug\VapeLauncherRipz.main.resources
+C:\Users\dripz\source\repos\VapeLauncherRipz\VapeLauncherRipz\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\dripz\source\repos\VapeLauncherRipz\VapeLauncherRipz\obj\Debug\VapeLauncherRipz.csproj.Fody.CopyLocal.cache
