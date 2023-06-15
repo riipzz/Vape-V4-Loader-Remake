@@ -1,5 +1,7 @@
 
 # ( C# ) Vape V4 Loader Remade
-i NO FUNCTIONS AND NOT A CRACK !
+i NOW WORKED WITH DECENCIES CRACK !
+
+(manthe pls forgive me)
 
 ![Image](https://i.imgur.com/ul2wSmG.png)
