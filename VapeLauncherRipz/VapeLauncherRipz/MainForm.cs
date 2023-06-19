@@ -40,7 +40,7 @@ namespace VapeLauncherRipz
         {
 			menupanel.Height = 63;
 			progres.Start();
-			Process.Start("java.exe", "--add-opens java.base/java.lang=ALL-UNNAMED -jar vape-loader.jar");
+			Process.Start("java.exe", "--add-opens java.base/java.lang=ALL-UNNAMED -jar vape-loader.jar"); /// delete this line if you dont want it works with Decencies's Crack
 		}
 
 		private void searchprocess_Tick(object sender, EventArgs e)
