@@ -20,14 +20,6 @@ namespace VapeLauncherRipz
 		[DllImport("user32.dll")]
 		private static extern IntPtr FindWindow(string lpclass, string lpwindow);
 
-		// Token: 0x06000003 RID: 3
-		[DllImport("kernel32")]
-		private static extern bool AllocConsole();
-
-		// Token: 0x06000004 RID: 4
-		[DllImport("kernel32.dll")]
-		private static extern bool FreeConsole();
-
 		[DllImport("user32.dll")]
 		static extern int GetWindowText(IntPtr hWnd, StringBuilder text, int count);
 
@@ -102,8 +94,6 @@ namespace VapeLauncherRipz
         private void main_Load(object sender, EventArgs e)
         {
 			progres.Interval = new Random().Next(60, 120);
-			AllocConsole();
-			 cnsle.Start();
 			if (!(FindWindow("LWJGL", null) == IntPtr.Zero))
 			{
 				 menupanel.Height = 63;
@@ -119,7 +109,7 @@ namespace VapeLauncherRipz
 
         private void cnsle_Tick(object sender, EventArgs e)
         {
-			FreeConsole();
+			
         }
 
         private void progresanim_Tick(object sender, EventArgs e)
